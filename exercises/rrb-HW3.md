@@ -1,5 +1,5 @@
 # HW3
-Reading the article "An empirical study on principles and practices of continuous delivery and deployment", relate the principles and practices of continuous delivery and deployment with the main issues and benefits on Dev and Ops teams activities, mentioning - if pertinent - ITIL practices discussed in this class
+### Reading the article "An empirical study on principles and practices of continuous delivery and deployment", relate the principles and practices of continuous delivery and deployment with the main issues and benefits on Dev and Ops teams activities, mentioning - if pertinent - ITIL practices discussed in this class
 
 Common practices: continuous integration, health checking, "Developer on Call", canary testing
 

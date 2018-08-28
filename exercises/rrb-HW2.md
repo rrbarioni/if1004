@@ -1,5 +1,5 @@
 # HW2
-Reading the article "Facts, trends and challenges in modern software development” and correlated the 10 adages in CD (from HW 1.4) with these facts, trends and challenges.
+### Reading the article "Facts, trends and challenges in modern software development” and correlated the 10 adages in CD (from HW 1.4) with these facts, trends and challenges.
 
 ## 1. Every Feature Is an Experiment
 Collaborative development, by making use of users for testing and providing bug reports and elucidation of new features.
